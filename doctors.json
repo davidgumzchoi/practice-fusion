@@ -1,0 +1,72 @@
+[
+  {
+    "id": 0,
+    "name": "Sam Lloyd",
+    "specialty": "Physician",
+    "area": "Los Angeles",
+    "score": 4
+  },
+  {
+    "id": 1,
+    "name": "Celia Jefferson",
+    "specialty": "Cardiologist",
+    "area": "Los Angeles",
+    "score": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Hilda Mack",
+    "specialty": "Orthopedist",
+    "area": "Orange County",
+    "score": 3
+  },
+  {
+    "id": 3,
+    "name": "Olivia Reese",
+    "specialty": "Dermatologist",
+    "area": "Orange County",
+    "score": 2
+  },
+  {
+    "id": 4,
+    "name": "Jennie Frank",
+    "specialty": "Physician",
+    "area": "Orange County",
+    "score": 2.5
+  },
+  {
+    "id": 5,
+    "name": "Eunice Stokes",
+    "specialty": "Physician",
+    "area": "San Francisco",
+    "score": 3.5
+  },
+  {
+    "id": 6,
+    "name": "Tyler Carr",
+    "specialty": "Dermatologist",
+    "area": "San Francisco",
+    "score": 5
+  },
+  {
+    "id": 7,
+    "name": "Randall Fuller",
+    "specialty": "Orthopedist",
+    "area": "San Francisco",
+    "score": 3.5
+  },
+  {
+    "id": 8,
+    "name": "Philip Lamb",
+    "specialty": "Orthopedist",
+    "area": "San Francisco",
+    "score": 4
+  },
+  {
+    "id": 9,
+    "name": "Leroy Blake",
+    "specialty": "Cardiologist",
+    "area": "San Francisco",
+    "score": 4.5
+  }
+]
